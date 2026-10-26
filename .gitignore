@@ -1,0 +1,25 @@
+# Patient-level inputs and local analysis outputs
+/data/*
+!/data/README.md
+/local_outputs/
+/local_logs/
+audit_log.jsonl
+interface_log.csv
+filtered_data.csv
+task4_distributions.png
+
+# Environments, caches and archives
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.cache/
+.matplotlib/
+*.log
+*.zip
+.env
+.env.*
+# Never commit solver licence files.
+gurobi.lic
+*.lic

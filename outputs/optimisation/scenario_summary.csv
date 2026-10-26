@@ -1,0 +1,5 @@
+scenario,optimal,weekly_total_hours,total_cost,maximum_operator_hours,minimum_operator_hours,weekly_hours_range
+task1_cost,True,70,1755,20,7,13
+task2_minimax,True,70,1784,14,8,6
+task2_range,True,70,1784,14,8,6
+task3_skills,True,70,1784,14,8,6
